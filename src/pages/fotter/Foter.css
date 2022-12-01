@@ -1,0 +1,24 @@
+.footter{
+    display: flex;
+    justify-content:space-between;
+    flex-basis: 0;
+    background-color: rgb(68, 52, 52);
+    max-width: 100vw;
+    padding: 2rem;
+    overflow: hidden;
+    
+    
+}
+.foter1 ,.foter3,.foter4,.foter2{
+    max-width: 25%;
+
+}
+foter3,.foter4,.foter2{
+    
+}
+.foter1,
+.foter3,
+.foter4,
+.foter2>h1,h5{
+    color: rgb(205, 195, 195);
+}
